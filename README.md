@@ -11,12 +11,14 @@ This is a simple Python script that uses the OpenCV library to perform real-time
 
 1. Make sure you have Python 3.x installed on your system.
 2. Install the OpenCV library using the following command:
+pip install opencv-python
 
 ## Usage
 
 1. Clone or download this repository to your local machine.
 2. Navigate to the project directory.
 3. Run the script using the following command:
+    python edge_detection.py
 4. A window will pop up showing the real-time webcam feed with Canny edge detection applied. Press the "Esc" key to exit the program.
 
 ## Explanation
